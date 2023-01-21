@@ -8,6 +8,9 @@ weight: -5
 ## Making your own Quartz
 Setting up Quartz requires a basic understanding of `git`. If you are unfamiliar, [this resource](https://resources.nwplus.io/2-beginner/how-to-git-github.html) is a great place to start!
 
+Тест за български език.
+Ориентир
+
 ### Forking
 > A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 

@@ -1,5 +1,5 @@
 ---
-title: 🪴 Bogomil Iliev yea.
+title: 🧠 Bogomil Iliev
 enableToc: false
 ---
 
