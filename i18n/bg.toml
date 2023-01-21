@@ -1,0 +1,65 @@
+[404_message]
+other = "Страницата не съществува (или е с ограничен достъп)."
+
+[404_back]
+other = "↳ Връщане назад."
+
+[all_posts]
+other = "Всички {{.Title}}"
+
+[last_updated]
+other = "Последна актуализация"
+
+[notes_count]
+other = "страници с този tag"
+
+[first_10]
+other = "Показване на първите 10 резутлтата"
+
+[tag]
+other = "Tag"
+
+[backlinks]
+other = "Връзки"
+
+[no_backlinks]
+other = "Няма намерени връзки"
+
+[home]
+other = "Начало"
+
+[light_mode]
+other = "Светъл режим"
+
+[dark_mode]
+other = "Тъмен режим"
+
+[edit_source]
+other = "Edit Source"
+
+[interactive_graph]
+other = "Интерактивна графика"
+
+[search]
+other = "Търсене"
+
+[search_icon]
+other = "Икона за търсене"
+
+[icon_search]
+other = "Икона за отваряне на търсене"
+
+[recent_notes]
+other = "Последни бележки"
+
+[first_3_notes]
+other = "Първите 3 {{ .notes }}"
+
+[search_for_something]
+other = "Търсене..."
+
+[toc]
+other = "Съдържание"
+
+[copyright]
+other = "{{ .name }}, © {{ .year }}"
