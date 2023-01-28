@@ -1,7 +1,7 @@
 ---
-title: 🧠 Bogomil Iliev
+title: 🧠 IlievMD
 enableToc: false
 ---
 
-## Хирургия
-[Съдова Хирургия](/tags/VascularSurgery)
+### Хирургия
+- [Съдова Хирургия](/tags/VascularSurgery)
