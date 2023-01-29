@@ -6,7 +6,13 @@ tags:
 
 ## Определение
 --- 
-**Болестта на Buerger** или **Thromboangiitis Obliterans (TAO)** е сегментно неатеросклеротично хронично-възпалително автоимунно заболяване, което засяга предимно малките и среднокалибрени артерии на крайниците. За първи път е описано през 1908 г. от д-р Лео Бюргер.[^1]
+**Болестта на Buerger** или **Thromboangiitis Obliterans (TAO)** е сегментно неатеросклеротично хронично-възпалително автоимунно заболяване, което засяга предимно малките и среднокалибрени артерии на крайниците. 
+
+През 1879 г. Felix von Winiwarter[^1] представя първото подробно описание на пациент с необичайно артериално състояние. През 1908 г. Leo Buerger[^2] напълно характеризира заболяването от подробно патологично изследване на 11 ампутирани крайника и предлага термина Thromboangiitis Obliterans (TAO), за да го разграничи от атеросклерозата.
+
+## Етиология
+---
+TAO is more common in men, and is usually diagnosed before 50 years of age
 
 Заболяването е тясно свързано с употребата на тютюн, въпреки че ограничени изследвания предполагат, че умерено до тежко пародонтално заболяване може също да бъде свързано с развитието на TAO.[^2]
 
@@ -53,8 +59,8 @@ Shionoya described five clinical criteria which are necessary for diagnosis of T
 >
 > При диференциално-диагностични затруднения, типичната хистологична находка е от полза за окончателна диагноза.
 
-#### Източници:
-[^1]: Thromboangiitis obliterans: a study of the vascular lesions leading to presenile spontaneous gangrene by Leo Buerger, M.D.: published, 1908 in the American Journal of the Medical Sciences. _Am J Med Sci_ 1973; 266:278-91.
-[^2]: Iwai T, Inoue Y, Umeda M, et al. Oral bacteria in the occluded arteries of patients with Buerger disease. _J Vasc Surg_ 2005;42:107–15.
+[^1]: Von Winiwarter F. Ueber eine eigenthumliche Form von En- darteriitis und Endophlebitis mit Gangran des Fusses. Arch Klin Chir 1879; 23: 202-26.
+[^2]: Thromboangiitis obliterans: a study of the vascular lesions leading to presenile spontaneous gangrene by Leo Buerger, M.D.: published, 1908 in the American Journal of the Medical Sciences. _Am J Med Sci_ 1973; 266:278-91.
+[^3]: Iwai T, Inoue Y, Umeda M, et al. Oral bacteria in the occluded arteries of patients with Buerger disease. _J Vasc Surg_ 2005;42:107–15.
 
  Shionoya S. Diagnostic criteria of Buerger's disease. _Int J Cardiol_ 1998;66:243-45.
