@@ -1,3 +1,4 @@
+public:: true
 ---
 title: "Болест на Брюгер"
 tags:
@@ -9,7 +10,6 @@ tags:
 **Болестта на Buerger** или **Thromboangiitis Obliterans (TAO)** е сегментно неатеросклеротично хронично-възпалително автоимунно заболяване, което засяга предимно малките и среднокалибрени артерии на крайниците. 
 
 През 1879 г. Felix von Winiwarter[^1] представя първото подробно описание на пациент с необичайно артериално състояние. През 1908 г. Leo Buerger[^2] напълно характеризира заболяването от подробно патологично изследване на 11 ампутирани крайника и предлага термина Thromboangiitis Obliterans (TAO), за да го разграничи от атеросклерозата.
-
 ## Етиология
 ---
 TAO is more common in men, and is usually diagnosed before 50 years of age
@@ -17,7 +17,6 @@ TAO is more common in men, and is usually diagnosed before 50 years of age
 Заболяването е тясно свързано с употребата на тютюн, въпреки че ограничени изследвания предполагат, че умерено до тежко пародонтално заболяване може също да бъде свързано с развитието на TAO.[^2]
 
 Възпалителният процес засяга и трите слоя на артериалната стена (панангиит) при сравнително млади мъже, предимно пушачи.
-
 ## Класификация
 ---
 ### Клинични форми
@@ -36,7 +35,6 @@ TAO is more common in men, and is usually diagnosed before 50 years of age
 	* Засягането на коронарните и каротидните артерии значително увеличава риска от летален изход.
 4. **Комбинирана**
 	* Установена е у болни с ТАО, при които след 50 годишна възраст се развива атеросклероза, която утежнява артериалната исхемия, причинена от болестта на Брюгер.
-
 ### Клиника
 ---
 Shionoya описва 5 клинични критерии, които са необходими за поставяне на диагноза ТАО:
@@ -48,19 +46,19 @@ Shionoya described five clinical criteria which are necessary for diagnosis of T
 ---
 - **Артериография** - най-важно диагностично средство.
 	- Характерни особености:
-		* Гладки проксимални артерии
-		* Обтурирани подколенни артериални съдове
-		* Тирбушоновидни колатерали
+	  		* Гладки проксимални артерии
+	  		* Обтурирани подколенни артериални съдове
+	  		* Тирбушоновидни колатерали
 - **Доплерови изследвания** - дават ценна информация за степента на исхемията.
 	- tcPO2
 	- PPG
-
-> [!tip] Hint 
->
-> При диференциално-диагностични затруднения, типичната хистологична находка е от полза за окончателна диагноза.
-
-[^1]: Von Winiwarter F. Ueber eine eigenthumliche Form von En- darteriitis und Endophlebitis mit Gangran des Fusses. Arch Klin Chir 1879; 23: 202-26.
-[^2]: Thromboangiitis obliterans: a study of the vascular lesions leading to presenile spontaneous gangrene by Leo Buerger, M.D.: published, 1908 in the American Journal of the Medical Sciences. _Am J Med Sci_ 1973; 266:278-91.
-[^3]: Iwai T, Inoue Y, Umeda M, et al. Oral bacteria in the occluded arteries of patients with Buerger disease. _J Vasc Surg_ 2005;42:107–15.
-
- Shionoya S. Diagnostic criteria of Buerger's disease. _Int J Cardiol_ 1998;66:243-45.
+	  
+	  > [!tip] Hint 
+	  >
+	  > При диференциално-диагностични затруднения, типичната хистологична находка е от полза за окончателна диагноза.
+	  
+	  [^1]: Von Winiwarter F. Ueber eine eigenthumliche Form von En- darteriitis und Endophlebitis mit Gangran des Fusses. Arch Klin Chir 1879; 23: 202-26.
+	  [^2]: Thromboangiitis obliterans: a study of the vascular lesions leading to presenile spontaneous gangrene by Leo Buerger, M.D.: published, 1908 in the American Journal of the Medical Sciences. _Am J Med Sci_ 1973; 266:278-91.
+	  [^3]: Iwai T, Inoue Y, Umeda M, et al. Oral bacteria in the occluded arteries of patients with Buerger disease. _J Vasc Surg_ 2005;42:107–15.
+	  
+	   Shionoya S. Diagnostic criteria of Buerger's disease. _Int J Cardiol_ 1998;66:243-45.
